@@ -1,0 +1,17 @@
+com\example\carins\repo\CarRepository.class
+com\example\carins\web\dto\ClaimDto.class
+com\example\carins\repo\InsurancePolicyRepository.class
+com\example\carins\repo\OwnerRepository.class
+com\example\carins\service\CarService.class
+com\example\carins\web\CarController.class
+com\example\carins\web\dto\CarHistoryEventDto.class
+com\example\carins\repo\InsuranceClaimRepository.class
+com\example\carins\task\PolicyExpiryLogger.class
+com\example\carins\model\InsuranceClaim.class
+com\example\carins\web\dto\CarDto.class
+com\example\carins\model\InsurancePolicy.class
+com\example\carins\CarInsuranceApplication.class
+com\example\carins\web\CarController$ClaimRequest.class
+com\example\carins\model\Car.class
+com\example\carins\web\CarController$InsuranceValidityResponse.class
+com\example\carins\model\Owner.class
